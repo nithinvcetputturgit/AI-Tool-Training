@@ -1,0 +1,34 @@
+{
+  "contact_information": {
+    "email": "shettyn517@gmail.com",
+    "linkedin": "https://linkedin.com/in/nithin-shetty-m-530274265",
+    "github": "https://github.com/nithinshettygit",
+    "location": "Dakshina Kannada, Karnataka, 574325"
+  },
+  "technical_skills": {
+    "programming_languages": ["Python", "Java"],
+    "ai_ml": ["PyTorch", "scikit-learn", "OpenCV", "NLP", "Generative AI"],
+    "llm_genai_tools": ["LangChain", "OpenAI API", "LLaMA", "FAISS", "RAG", "Sentence-Transformers"],
+    "web_ui": ["Flask", "Streamlit", "React.js"]
+  },
+  "projects": [
+    {
+      "title": "AIRA – AI Powered Smart Teaching Robot",
+      "period": "March 2025 - June 2025",
+      "description": "Built a RAG (Retrieval Augmented Generation) and LLM based AI teaching agent that features real-time Q&A with interruption-resume logic. Enhanced the response time and answer relevance by integrating FAISS vector search.",
+      "technologies": ["LangChain", "GeminiFlash LLM", "Sentence-Transformers", "FAISS", "Python", "React.js", "FastAPI"]
+    },
+    {
+      "title": "Autonomous Wheelchair using Deep Learning",
+      "period": "July 2024 - October 2024",
+      "description": "Developed a CNN-based Deep learning model for real-time direction control of a wheelchair prototype. Integrated the system with ESP8266 hardware and a Flask UI for dual-mode navigation, achieving reliable navigation in a controlled hospital-like environment.",
+      "technologies": ["Python", "PyTorch", "OpenCV", "Flask", "Arduino", "NodeMCU"]
+    },
+    {
+      "title": "Hand Gesture Controlled Wheelchair",
+      "description": "Designed and implemented a computer vision pipeline for accurate gesture detection and mapped gestures to wheelchair movements. This project allows users to control wheelchair direction (forward, backward, left, right, stop) with simple hand movements, offering an accessible and user-friendly control mechanism.",
+      "technologies": ["Python", "OpenCV", "MediaPipe", "Arduino"],
+      "github_link": "https://github.com/nithinshettygit/Hand-Gesture-Controlled-Wheelchair"
+    }
+  ]
+}

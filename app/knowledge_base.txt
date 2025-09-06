@@ -1,0 +1,8 @@
+# knowledge_base.txt
+
+Nithin Shetty M is an AI & ML engineering student with hands-on experience in deep learning, LLM-based agents, and real-time systems. He is skilled in deploying AI/ML solutions using LangChain, FAISS, and Python. Nithin is actively seeking AI/ML/GenAI Engineer roles to contribute to impactful, intelligent applications.
+
+Nithin is a Final Year B.E. student in Artificial Intelligence and Machine Learning at Vivekananda College of Engineering and Technology (VCET), Puttur, Dakshina Kannada, Karnataka. He is affiliated with Visvesvaraya Technological University, Belagavi, Karnataka, and is expected to graduate in June 2026. Nithin maintains a strong academic record with a CGPA of 8.60 / 10.00 (First 6 Semesters) at VCET. He completed his Pre-University Course (PUC) with PCMB specialization at Sri Rama Pre-University College Kalladka, Dakshina Kannada, Karnataka, completing in 2022 with 88.00%. For his secondary education (SSLC), Nithin attended Shri Ramachandra High School Perne, Dakshina Kannada, Karnataka, completing in 2020 with a percentage of 96.36%.
+
+Nithin possesses strong soft skills including Communication, Teamwork, and Problem-solving.
+Nithin has a certification from Udemy: 'AI & LLM Engineering Mastery: GenAI, RAG Complete Guide'.
